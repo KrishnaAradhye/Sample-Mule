@@ -33,7 +33,7 @@
 				<configuration>
 				<cloudHubDeployment>
 				<username>m1044865</username>
-				<environment>DEVELOPMENT</environment>
+				<environment>Development</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>SamleTestService</applicationName>
